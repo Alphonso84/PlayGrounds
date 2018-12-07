@@ -4,7 +4,7 @@ import UIKit
 import PlaygroundSupport
 
 
-
+//Even NumberFunctions
 func findEvenNumsIn(array:[Int]) -> [Int] {
     var newArray = [Int]()
     for i in array {
